@@ -293,6 +293,9 @@ body {
 
  @media  screen and (min-width: 1093px) {
   .timestamp {
-    margin-right: 1vw;
+    margin-right: 2.5vw;
+  }
+  .location {
+    margin-left: 0.5vw;
   }
  }
