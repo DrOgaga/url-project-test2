@@ -26,6 +26,9 @@ body {
  .middle-content  .right-content {
   display: none;
  }
+.heading-lowercontent  {
+  display: none;
+}
  /* contents hidden end */
 
  /* upper content */
